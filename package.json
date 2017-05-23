@@ -1,7 +1,7 @@
 {
   "name": "hello-world",
-  "description": "ClaudiaJS hello-world example",
-  "version": "1.0.0",
+  "description": "ClaudiaJS hello-world example using DockPress",
+  "version": "1.0.1",
   "private": true,
   "files": [
     "main.js"
