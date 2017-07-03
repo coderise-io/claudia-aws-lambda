@@ -2,5 +2,5 @@
 exports.handler = function (event, context) {
 	'use strict';
 	console.log(event);
-	context.succeed('Claudia AWS Lambda example using codeRISE!');
+	context.succeed('Claudia Hello Lambda example using codeRISE!');
 };
