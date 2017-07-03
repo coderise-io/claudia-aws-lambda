@@ -1,13 +1,13 @@
 {
-  "name": "claudia-aws-lambda",
-  "description": "ClaudiaJS AWS Lambda example using codeRISE",
+  "name": "claudia-hello-lambda",
+  "description": "ClaudiaJS Hello Lambda example using codeRISE",
   "version": "1.0.0",
   "private": true,
   "files": [
     "main.js"
   ],
   "scripts": {
-    "start": "claudia create --name claudia-lambda --region us-east-1 --handler main.handler",
+    "start": "claudia create --name claudia-hello-lambda --region us-east-1 --handler main.handler",
     "test": "claudia test-lambda",
     "deploy": "claudia update"
   },
